@@ -13,7 +13,7 @@ Comprehensive Quality Assurance (QA) testing suite and Agile workflow execution 
 
 | View Type | Screenshot |
 | --- | --- |
-| **Tree View** | ![Jira Tree View](Jira_Board_View.png) |
+| **Tree View** | ![Jira Tree View](Jira-Tree-View.png) |
 | **Board View** | ![Jira Board View](./Jira_Board_View.png) |
 
 ---
